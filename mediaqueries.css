@@ -1,0 +1,84 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12 Okt 17, 15:38:07
+    Author     : lk3no14uty
+*/
+
+@media screen and (max-width: 980px){
+    #wrapper{
+        width: 94%;
+    }
+    #daftar-artikel{
+        width: 65%;
+    }
+    #sidebar{
+        width: 30%;
+    }
+    
+}
+@media screen and (max-width: 700px){
+    #daftar-artikel{
+        width: 65%;
+        float: none;
+    }
+    #sidebar{
+        width: 30%;
+        float: none;
+    }
+    
+}
+@media screen and (max-width: 480px){
+    #header{
+        height: auto;
+    }
+    #h1{
+        font-size: 24px;
+    }
+    #sidebar{
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 980px){
+    #wrapper{
+        width: 96%;
+    }
+    #daftar-artikel{
+        width: 66%;
+    }
+    #sidebar{
+        width: 30%;
+    }
+    
+}
+@media screen and (max-width: 700px){
+    #daftar-artikel{
+        width: auto;
+        float: none;
+    }
+    #sidebar{
+        width: auto;
+        float: none;
+    }
+    
+}
+@media screen and (max-width: 480px){
+    #header{
+        height: auto;
+    }
+    #h1{
+        font-size: 24px;
+    }
+    #sidebar{
+        display: none;
+    }
+}
+
+
+
+
